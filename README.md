@@ -1,3 +1,7 @@
+[![Dapur Kilat — Warung Rush](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![Rank](https://make.fun/badge/best-cooking-game-20261125-0137/gunawanp-ux/best-cooking-game-20261125/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![Reward](https://make.fun/badge/best-cooking-game-20261125-0137/gunawanp-ux/best-cooking-game-20261125/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+
 DAPUR KILAT — Warung Rush
 ============================
 
